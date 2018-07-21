@@ -1,0 +1,6 @@
+framework module Pods_TableViewDecorator_Example {
+  umbrella header "Pods-TableViewDecorator_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
